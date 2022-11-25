@@ -13,7 +13,7 @@ const myRoute:Routes=[
     component:AddCoursesComponent
   },
   {
-    path:"/viewcourses",
+    path:"viewcourses",
     component:ViewCoursesComponent
   }
 
